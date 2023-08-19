@@ -832,6 +832,7 @@ display: flex;
     background-color: var(--color-ocean);
     border: none;
     fill: var(--color-cloud);
+    border-color: var(--color-ocean);;
 }
 
 .modal__check-text {
